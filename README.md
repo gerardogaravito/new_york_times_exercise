@@ -1,4 +1,4 @@
-#New York Times Exercise
+# New York Times Exercise
 
 On this repository I tried to do an exact copy of the front page of The New York Times
 
